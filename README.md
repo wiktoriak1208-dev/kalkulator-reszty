@@ -19,4 +19,5 @@ Aplikacja zaczyna się od ekranu logowania. Po zalogowaniu użytkownik wpisuje k
 -repozytorium zewnętrzne github
 
 # Autor
-Wiktoria kalman
+Wiktoria Kalman
+https://github.com/wiktoriak1208-dev/kalkulator-reszty
